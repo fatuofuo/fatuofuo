@@ -48,4 +48,4 @@ I am a final year Electrical and Computer Engineering student (ECE) at the Natio
 * 🧩 **[PCB Packaging](https://github.com/fatuofuo/fusion360-pcb-packaging)** — Packaging
 * ⚡ **[Electrical Design](https://github.com/USERNAME/repo_name)** — Elecrical and mechanical design 
 * 📊 **[Decision Support Systems](https://github.com/fatuofuo/Desicion-Systems-lab)** — Decision systems project
-* 💥 **[Fault Injection Project](https://github.com/USERNAME/repo_name)** — fault injection project
+* 💥 **[Fault Injection Project](https://github.com/fatuofuo/fault-injection-bonus-project)** — fault injection project
