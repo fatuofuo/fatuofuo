@@ -42,7 +42,7 @@ I am a final year Electrical and Computer Engineering student (ECE) at the Natio
 
 ### Projects:
 * 🤖 **[Robotics Project](https://github.com/USERNAME/repo_name)** — Robotics and control lab
-* 🖼️️ **[Image & Video Technology]([https://github.com/USERNAME/repo_name](https://github.com/fatuofuo/fusion360-pcb-packaging))** — AI lab
+* 🖼️️ **[Image & Video Technology](https://github.com/fatuofuo/fusion360-pcb-packaging)** — AI lab
 * 💽 **[Microcomputers 8086](https://github.com/USERNAME/repo_name)** — microprocessors lab
 * ⚙️ **[FPGA Programming](https://github.com/USERNAME/repo_name)** — FPGA programming
 * 🧩 **[PCB Packaging](https://github.com/USERNAME/repo_name)** — Packaging
