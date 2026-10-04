@@ -35,7 +35,6 @@ I am a final year Electrical and Computer Engineering student (ECE) at the Natio
 <!-- Άλλαξε τη λέξη TO_USERNAME_SOU με το πραγματικό σου username στο GitHub -->
 <div align="left">
   <img src="https://github-readme-stats.vercel.app/api?username=fatuofuo&show_icons=true&theme=tokyonight&hide_border=true" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=fatuofuo&layout=compact&theme=tokyonight&hide_border=true" height="150" alt="top languages graph"  />
 </div>
 
 ---
