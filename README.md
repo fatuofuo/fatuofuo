@@ -1,4 +1,4 @@
-# fatuofuo
+
 ### About Me:
 I am a final year Electrical and Computer Engineering student (ECE) at the National Technical University of Athens, specializing in electronics and systems. The majority of the repositories which are uploaded here showcase my university coursework, lab assignments and academic projects.
 
