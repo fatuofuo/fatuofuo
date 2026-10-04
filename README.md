@@ -5,7 +5,7 @@ I am a final year Electrical and Computer Engineering student (ECE) at the Natio
 
 ### Socials:
 <!-- Τα εικονίδια φτιάχνονται μέσω του shields.io -->
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mfatourou2003@gmail.com)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](https://mail.google.com/mail/?view=cm&fs=1&to=mfatourou2003@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/maria-fatourou-106a75269/)
 
 ---
