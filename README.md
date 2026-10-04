@@ -17,7 +17,7 @@ I am a final year Electrical and Computer Engineering student (ECE) at the Natio
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![VHDL](https://img.shields.io/badge/VHDL-5C2D91?style=for-the-badge&logoColor=white)
-![Verilog](https://img.shields.io/badge/Verilog-2E8B57?style=for-the-badge&logoColor=white)
+![Verilog](https://img.shields.io/badge/Verilog-2E8B57?style=for-the-badge&logoColor=white) 
 ![Assembly](https://img.shields.io/badge/Assembly-%232D3748.svg?style=for-the-badge&logoColor=white)
 ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
 ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
